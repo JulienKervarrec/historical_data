@@ -1,3 +1,7 @@
+## Parcours français
+
+Un guide français de lecture, de contrôle qualité et d interprétation des données Hyperliquid est disponible dans [`docs/fr/`](docs/fr/).
+
 Historical DEX data for visualizations
 
 # General notation
